@@ -134,3 +134,4 @@ C:\Users\HomePC\source\repos\BooksApi\BooksApi\obj\Debug\net8.0\refint\BooksApi.
 C:\Users\HomePC\source\repos\BooksApi\BooksApi\obj\Debug\net8.0\BooksApi.pdb
 C:\Users\HomePC\source\repos\BooksApi\BooksApi\obj\Debug\net8.0\BooksApi.genruntimeconfig.cache
 C:\Users\HomePC\source\repos\BooksApi\BooksApi\obj\Debug\net8.0\ref\BooksApi.dll
+C:\Users\HomePC\source\repos\BooksApi\BooksApi\obj\Debug\net8.0\BooksApi.sourcelink.json
