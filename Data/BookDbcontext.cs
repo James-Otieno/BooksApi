@@ -1,5 +1,4 @@
-﻿
-using BooksApi.Models;
+﻿using BooksApi.Models.Domain;
 using Microsoft.EntityFrameworkCore;
 
 namespace BooksApi.Data
@@ -13,5 +12,5 @@ namespace BooksApi.Data
         }
         public DbSet<Book> books { get; set; }
     }
-    
+
 }

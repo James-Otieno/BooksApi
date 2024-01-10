@@ -13,6 +13,7 @@ builder.Services.AddDbContext<BookDbContext>(
     options => options.UseSqlServer(
         builder.Configuration.GetConnectionString("BookConnectionString")));
 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
